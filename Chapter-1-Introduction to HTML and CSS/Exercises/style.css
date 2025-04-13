@@ -1,7 +1,17 @@
-li {
-    text-indent: 100px;
+h1 {
+    margin: 30px;
 }
 
-h1 {
-    margin: 100px;
+p {
+    margin: 40px;
+
+}
+
+li {
+    text-indent: 10px;
+    margin: 10px;
+}
+
+h2 {
+    margin: 20px;
 }
