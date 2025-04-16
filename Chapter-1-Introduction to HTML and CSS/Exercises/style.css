@@ -15,3 +15,13 @@ li {
 h2 {
     margin: 20px;
 }
+
+img {
+    height: 28%;
+    width: 28%;
+    float: right;
+}
+
+div.class {
+    float: right;
+}
